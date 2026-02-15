@@ -1,0 +1,30 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="800" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#1F6FEB" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="text_gradient" x1="0" y1="0" x2="400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#C9D1D9"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  
+  <rect width="800" height="200" rx="12" fill="url(#paint0_linear)"/>
+  
+  <!-- Abstract Tech Patterns -->
+  <path d="M0 100L50 80L100 120L150 100L200 130L250 90L300 110L350 70L400 100" stroke="#58A6FF" stroke-opacity="0.1" stroke-width="2" fill="none"/>
+  <circle cx="700" cy="50" r="20" stroke="#1F6FEB" stroke-opacity="0.2" stroke-width="1"/>
+  <circle cx="750" cy="150" r="10" stroke="#58A6FF" stroke-opacity="0.1" stroke-width="1"/>
+  
+  <!-- Text -->
+  <text x="40" y="110" font-family="Arial, sans-serif" font-weight="800" font-size="64" fill="url(#text_gradient)" filter="url(#glow)">HAMZA HAFEEZ</text>
+  <text x="45" y="150" font-family="Arial, sans-serif" font-weight="400" font-size="20" fill="#8B949E" letter-spacing="4">SYSTEMS ARCHITECT &amp; VISIONARY</text>
+  
+  <!-- Accent Line -->
+  <rect x="40" y="165" width="300" height="4" rx="2" fill="#1F6FEB"/>
+</svg>
