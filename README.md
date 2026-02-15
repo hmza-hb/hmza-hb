@@ -237,10 +237,6 @@ My approach to building systems is grounded in principles that prioritize **long
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hamza-hafeez82&show_icons=true&theme=tokyonight" alt="Hamza's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-hafeez82&layout=compact&theme=tokyonight" alt="Top Languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-hafeez82&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
