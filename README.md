@@ -55,8 +55,8 @@ A full-service digital agency specializing in:
 - Cloud Infrastructure & DevOps
 - Product Design & UX
 
-**Founded:** 1st July, 2025  
-**Role:** Founder & CEO  
+**From** Feburary, 2025  
+**Role:** Software Engineer 
 **Mission:** Delivering enterprise-grade solutions to startups and established businesses
 
 </td>
