@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hamza-hafeez82/hamza-hafeez82/main/assets/header.svg" width="100%" alt="Hamza Hafeez Header" />
-
 ### Founder, Engineer, Research Architect
 
 **Building the Future of Intelligence, Security, and Human Connection**
