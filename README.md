@@ -47,6 +47,30 @@ A full-service digital agency specializing in:
 **Role:** Software Engineer 
 **Mission:** Delivering enterprise-grade solutions to startups and established businesses
 
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="assets/CortexEDR.png" width="100" />
+</div>
+
+### [CortexEDR](https://www.cortex-edr.com)
+**AI-Powered Application Security Analyst**
+
+Enterprise-grade security orchestration:
+- **Multi-Agent AI Security System**
+- **Continuous Vulnerability Scanning**
+- **GitHub-Native Workflow Integration**
+- **AI-Powered Remediation Guidance**
+- **Real-Time Security Dashboards**
+
+**Founded:** February 2026  
+**Role:** Founder & CEO  
+**Stack:** FastAPI, Claude Sonnet 4.5, Supabase, Next.js
+
+</td>
+</tr>
+
+<tr>
 </td>
 <td width="50%" valign="top">
 
@@ -70,30 +94,7 @@ A production-grade social platform with:
 [View Repository →](https://github.com/hamza-hafeez82/Histeeria)
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="assets/CortexEDR.png" width="100" />
-</div>
-
-### [CortexEDR](https://www.cortex-edr.com)
-**AI-Powered Application Security Analyst**
-
-Enterprise-grade security orchestration:
-- **Multi-Agent AI Security System**
-- **Continuous Vulnerability Scanning**
-- **GitHub-Native Workflow Integration**
-- **AI-Powered Remediation Guidance**
-- **Real-Time Security Dashboards**
-
-**Founded:** February 2026  
-**Role:** Founder & CEO  
-**Stack:** FastAPI, Claude Sonnet 4.5, Supabase, Next.js
-
-</td>
 <td width="50%" valign="top">
 
 <div align="center">
