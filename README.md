@@ -22,7 +22,7 @@ I'm **Hamza Hafeez**, a software engineer?, founder?, researcher? aah IDK.. Just
 
 My work sits at the intersection of **neuroscience-inspired AI**, **production-grade infrastructure**, and **privacy-first engineering**. I build products that solve real problems while pushing the boundaries of what's technically possible.
 
-my personal website: https://www.hamza-hafeez.site
+my personal website: www.hamza-hafeez.site
 
 ### What Drives Me?
 
