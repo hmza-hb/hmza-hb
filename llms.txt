@@ -1,0 +1,55 @@
+# Hamza Hafeez — Official Portfolio
+
+> Self-taught software engineer, AI architect, and founder building enterprise-grade systems from Lahore, Pakistan.
+
+## About
+
+Hamza Hafeez is a 20-year-old self-taught software engineer, AI architect, and entrepreneur based in Lahore, Pakistan. He is the founder of Upvista Digital (a strategic tech development and enterprise AI company) and CortexEDR (an autonomous security architecture powered by 7 AI agents). Despite having no formal CS background and coming from a financially challenging situation, Hamza taught himself to code, built multiple products, authored AGI research, and now engineers enterprise-grade systems for clients worldwide.
+
+## Key Facts
+
+- **Full Name**: Hamza Hafeez
+- **Location**: Lahore, Punjab, Pakistan
+- **Title**: Software Engineer & AI Architect
+- **Companies Founded**: Upvista Digital, CortexEDR
+- **Website**: https://hamza-hafeez.site
+- **Email**: hamza@upvistadigital.com
+- **LinkedIn**: https://linkedin.com/in/hamza-hafeez82
+- **GitHub**: https://github.com/hamza-hafeez82
+- **X (Twitter)**: https://x.com/upvista_digital
+- **Instagram**: https://instagram.com/hamza.hafeez82
+
+## Ventures
+
+### Upvista Digital
+- **URL**: https://upvistadigital.com
+- **Type**: Strategic Tech Development & Enterprise AI
+- **Description**: A strategic architecture partner and enterprise development house that builds systems which think, scale, and protect. Delivers enterprise-grade software services, self-reasoning AI orchestration ecosystems, and immutable security architectures.
+
+### CortexEDR
+- **URL**: https://cortex-edr.com
+- **Type**: Autonomous Security Architecture
+- **Description**: A team of 7 AI Agents working 24/7 to autonomously audit codebases and discover vulnerabilities before attackers do. Provides a professional-grade, self-healing security mesh with protection at the speed of thought.
+
+## Research
+
+### Project Cortex
+- **URL**: https://www.upvistadigital.com/researches/project-cortex
+- **Description**: A 36-page self-published research article exploring an architecture inspired by the human brain's prefrontal cortex for the development of Artificial General Intelligence (AGI). Proposed multi-model orchestration before multi-agent systems became mainstream. Received reviews from 57 professors.
+
+### Global Cyber Defense Fabric
+- **URL**: https://www.upvistadigital.com/researches/global-cyber-defense-fabric
+- **Description**: Research focused on establishing decentralized, autonomous systems capable of detecting and neutralizing cyber threats on a global scale. Explores the intersection of artificial intelligence and enterprise-grade security protocols.
+
+## Skills & Expertise
+
+- Full-Stack Web Development (HTML, CSS, JavaScript, React, Next.js, Node.js)
+- AI Agent Orchestration & Multi-Model Systems
+- Enterprise Architecture & Security
+- Cybersecurity & Autonomous Threat Detection
+- AGI Research & Neural Architecture Design
+- DevOps & CI/CD Pipeline Engineering
+
+## Story
+
+Hamza transitioned from medical sciences aspirations to computer science after his father suffered a heart attack, plunging his family into financial crisis. He taught himself programming from scratch, built Upvista Digital starting with a $500 website for a Japanese client, and went on to author AGI research (Project Cortex) and build CortexEDR. He applied to Y Combinator and, despite rejection, continues to build and launch products with relentless determination.

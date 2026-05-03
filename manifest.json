@@ -1,0 +1,20 @@
+{
+    "name": "Hamza Hafeez — Software Engineer, AI Architect & Founder",
+    "short_name": "Hamza Hafeez",
+    "description": "Official portfolio of Hamza Hafeez. Self-taught software engineer, AI architect, and founder of Upvista Digital & CortexEDR.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0a0a0f",
+    "theme_color": "#0a0a0f",
+    "orientation": "portrait-primary",
+    "lang": "en",
+    "icons": [
+        {
+            "src": "/assets/hamza.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["portfolio", "technology", "engineering"]
+}

@@ -1,0 +1,18 @@
+/* TEAM */
+Name: Hamza Hafeez
+Role: Founder, Software Engineer & AI Architect
+Location: Lahore, Punjab, Pakistan
+Contact: hamza [at] upvistadigital.com
+LinkedIn: linkedin.com/in/hamza-hafeez82
+GitHub: github.com/hamza-hafeez82
+X: x.com/upvista_digital
+
+/* SITE */
+Last update: 2026-05-03
+Standards: HTML5, CSS3, JavaScript ES6+
+Software: Hand-coded with determination
+Domain: hamza-hafeez.site
+
+/* VENTURES */
+Upvista Digital: upvistadigital.com
+CortexEDR: cortex-edr.com
