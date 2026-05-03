@@ -28,7 +28,7 @@ my personal website: https://www.hamza-hafeez.site/
 
 I believe that:
 - **Intelligence should be interpretable** — Black-box AI is not enough for high-stakes decisions
-- **Privacy is non-negotiable** — Users should own their data, not surrender it
+- **Privacy is non-negotiable** — Users should own their data,not surrender it
 - **Autonomy requires safety** — AGI must be aligned, auditable, and human-governed
 - **Great products solve pain** — Technology exists to serve people, not extract from them
 
