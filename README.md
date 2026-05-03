@@ -15,12 +15,11 @@
 ---
 
 ## About Me
+my personal website: https://www.hamza-hafeez.site
 
 I'm **Hamza Hafeez**, a software engineer?, founder?, researcher? aah IDK.. Just figuring life out by doing what I love and loving what I do! building systems that bridge artificial intelligence, cybersecurity, and human-centered design. I don't just write code; I architect **cognitive systems**, design **enterprise platforms**, and pioneer research into **general intelligence**.
 
 My work sits at the intersection of **neuroscience-inspired AI**, **production-grade infrastructure**, and **privacy-first engineering**. I build products that solve real problems while pushing the boundaries of what's technically possible.
-
-my personal website: https://www.hamza-hafeez.site
 
 ## Founder & Creator
 
