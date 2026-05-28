@@ -143,7 +143,7 @@ privacy-first social platform. E2EE encrypted messaging (RSA-AES hybrid), epheme
 </div>
 
 ### [Upvista Digital](https://www.upvistadigital.com)
-My dev studio. custom software, AI solutions, web/app development, security auditing and cloud infra for startups. clients across Japan, US, UK, Germany, New Zealand, and Pakistan. the business that funds the research. 14 members, 2 internees, had a lot of fun learning via earning ;)
+My dev studio. custom software, AI solutions, web/app development, security auditing and cloud infra for startups. clients across Japan, US, UK, Germany, New Zealand, and Pakistan. the business that funds the research. 14 members, 2 intrnees, had a lot of fun learning via earning ;)
 
 [upvistadigital.com →](https://www.upvistadigital.com)
 
