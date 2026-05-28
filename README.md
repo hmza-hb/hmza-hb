@@ -23,7 +23,7 @@ My work sits at the intersection of **neuroscience-inspired AI**, **production-g
 
 ## Founder & Creator
 
-I've founded and architected multiple platforms and research initiatives that span AGI, cybersecurity, social networking, and enterprise software:
+I've founded and architected multiple platforms and research initiatives that span AI, cybersecurity, social networking, and enterprise software:
 
 <table>
 <tr>
@@ -129,7 +129,7 @@ An emotionally intelligent executive assistant:
 
 **Author & Principal Researcher**
 
-Project Cortex is my research initiative into **neuroscience-driven AGI architecture**. (Praised and acknowledged by 57 Professors worldwide!) It models the executive functions of the human prefrontal cortex through:
+Project Cortex is my research initiative into **neuroscience-driven AI architecture**. (Praised and acknowledged by 57 Professors worldwide!) It models the executive functions of the human prefrontal cortex through:
 
 - **Orchestrator-Based Coordination** (inspired by dorsolateral PFC)
 - **Specialized Cognitive Agents** (Reasoning, Planning, Risk Evaluation, Memory, Execution)
@@ -171,7 +171,7 @@ Project Cortex is my research initiative into **neuroscience-driven AGI architec
 
 ### Reach Out
 
-- **Email:** [hamza@upvistadigital.com](mailto:hamza@upvistadigital.com)
+- **Email:** [hmza.hb82@gmail.com](mailto:hmza.hb82@gmail.com)
 - **LinkedIn:** [hamza-hafeez82](https://linkedin.com/in/hamza-hafeez82)
 - **Instagram:** [@hamza.hafeez82](https://instagram.com/hamza.hafeez82)
 - **Twitter:** [@Upvista_Digital](https://twitter.com/Upvista_Digital)
@@ -194,7 +194,7 @@ Project Cortex is my research initiative into **neuroscience-driven AGI architec
 My open-source projects are licensed under their respective licenses (Apache 2.0, MIT, GPL). Proprietary projects (CortexEDR etc) remain under private licenses.
 
 **For commercial inquiries about my work:**  
-Contact me at [hamza@upvistadigital.com](mailto:hamza@upvistadigital.com)
+Contact me at [hamza@upvistadigital.com](mailto:hmza.hb82@gmail.com)
 
 ---
 
