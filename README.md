@@ -172,7 +172,7 @@ security       static analysis · CVE triage · OSV.dev
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-hafeez82&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hmza-hb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
