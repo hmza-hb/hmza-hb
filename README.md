@@ -60,7 +60,7 @@ Open-source, local-first CLI. Free, model-agnostic.
 ---
 
 <div align="center">
-<img src="assets/anya.jpeg" width="80" />
+<img src="assets/anya2.jpeg" width="80" />
 </div>
 
 ### [Anya](https://github.com/hmza-hb/Anya) &nbsp;·&nbsp; Emotionally-Aware companion Robot
