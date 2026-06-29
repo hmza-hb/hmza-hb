@@ -1,7 +1,5 @@
 <div align="center">
 
-<br/>
-
 # Hamza Hafeez
 
 **Founder · Engineer · AI Researcher**
