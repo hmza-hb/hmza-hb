@@ -107,8 +107,8 @@ My dev studio. Custom software, AI solutions, security auditing, and cloud infra
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hmza-hb&theme=tokyo-night&hide_border=true&area=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=hmza-hb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmza-hb&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+<img src="https://mystats-two.vercel.app/api?username=hmza-hb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://mystats-two.vercel.app/api/top-langs/?username=hmza-hb&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
 
 </div>
 ---
