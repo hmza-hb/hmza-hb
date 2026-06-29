@@ -14,12 +14,6 @@ Building systems that think, judge, and act.
 
 </div>
 
----
-
-Solo founder. Software engineer. Independent AI researcher.  
-
-
----
 
 ## What I'm Building
 <table>
