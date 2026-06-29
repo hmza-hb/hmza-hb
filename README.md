@@ -35,7 +35,6 @@ An 8-dimension behavioral scoring framework that generates a **judgment profile*
 </tr>
 <table>
 
----
 
 <div align="center">
 <img src="assets/CortexEDR.png" width="80" />
@@ -52,7 +51,6 @@ Open-source, local-first CLI. Free, model-agnostic.
 
 **Founder & Chief Engineer** &nbsp;·&nbsp; [npm](https://www.npmjs.com/package/@cortexedr/cli) &nbsp;·&nbsp; [github](https://github.com/Cortex-EDR) &nbsp;·&nbsp; [cortex-edr.com](https://www.cortex-edr.com)
 
----
 
 <div align="center">
 <img src="assets/anya2.jpeg" width="80" />
@@ -79,7 +77,6 @@ LLMs have local competence. No global executive control. This is the architectur
 
 [read the paper →](https://github.com/hmza-hb/Project-Cortex)
 
----
 
 ## Also I ran
 <div align="center">
