@@ -59,6 +59,10 @@ Open-source, local-first CLI. Free, model-agnostic.
 
 ---
 
+<div align="center">
+<img src="assets/anya.jpeg" width="80" />
+</div>
+
 ### [Anya](https://github.com/hmza-hb/Anya) &nbsp;·&nbsp; Emotionally-Aware companion Robot
 *< passion project >*
 
@@ -111,6 +115,7 @@ My dev studio. Custom software, AI solutions, security auditing, and cloud infra
 <img src="https://mystats-two.vercel.app/api/top-langs/?username=hmza-hb&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
 
 </div>
+
 ---
 
 <div align="center">
