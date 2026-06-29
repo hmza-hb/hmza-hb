@@ -40,6 +40,7 @@ An 8-dimension behavioral scoring framework that generates a **judgment profile*
 </td>
 </tr>
 <table>
+
 ---
 
 <div align="center">
@@ -106,7 +107,6 @@ My dev studio. Custom software, AI solutions, security auditing, and cloud infra
 
 </div>
 
----
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hmza-hb&theme=tokyo-night&hide_border=true&area=true)
@@ -115,8 +115,6 @@ My dev studio. Custom software, AI solutions, security auditing, and cloud infra
 <img src="https://mystats-two.vercel.app/api/top-langs/?username=hmza-hb&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
 
 </div>
-
----
 
 <div align="center">
 
