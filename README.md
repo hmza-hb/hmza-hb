@@ -1,33 +1,33 @@
-# Hamza Hafeez
+## Hamza Hafeez
 
-<div>
-  <a href="https://github.com/hmza-hb?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/hmza-hb?style=for-the-badge&logo=github&color=2563eb&logoColor=white&label=Stars" alt="Stars" />
-  </a>
- 
-</div>
+<a href="https://github.com/hmza-hb?tab=repositories&sort=stargazers">
+  <img src="https://img.shields.io/github/stars/hmza-hb?style=for-the-badge&logo=github&color=2563eb&logoColor=white&label=Stars" alt="Stars" />
+</a>
 
-Building high concurrency, distributed backend services, autonomous agent infrastructure & security systems.
+**I design, secure, scale and maintain distributed backend systems.** Event-driven engines, real-time platforms, and the infrastructure that keeps them safe under load.
 
+### Selected work
 
-### top shippings
-- **[Histeeria](https://github.com/hmza-hb/histeeria-web)**: Engineered asynchronous Go-based ingestion and SDKs to monitor and evaluate production agentic decisions. [view github](https://github.com/histeeria) 
+- **Cortex**: application security engine on RAG and a multi-agent harness, with a pentest CLI and an audit CLI built on the same core.
+  [cortex-edr](https://github.com/hmza-hb/cortex-edr) · [cortex-attack](https://github.com/Cortex-EDR/cortex-attack) (npm) · [cortex-cli](https://github.com/hmza-hb/cortex-cli) (Go)
 
-- **[Cortex](https://github.com/hmza-hb/cortex-edr)**: Multi-agent appsec platform. combining AI agents and static analysis to automate ~70% of manual security audits. 
+- **Histeeria**: async Go ingestion platform and Python/TypeScript SDKs to monitor and evaluate production agent decisions.
+  [platform](https://github.com/hmza-hb/histeeria-web) · [sdk](https://github.com/hmza-hb/histeeria-sdk) · [docs](https://github.com/hmza-hb/histeeria-docs)
 
-- **[Cortex Attack](https://github.com/Cortex-EDR/cortex-attack)** (AI attack orchestration pentesting CLI on [npm](https://www.npmjs.com/package/cortex-attack)) spinning 7 cyber tools in an ephemeral dockerized container to trace multi-hop exploit graphs and generate code remediation.
+- **Web acquisition infrastructure**: a restart-safe, SSRF-hardened crawler leased through PostgreSQL, and a distributed layer for multimodal parsing and provenance-aware processing.
+  [Hermes Crawler](https://github.com/hmza-hb/crawler) · [Frontal](https://github.com/hmza-hb/frontal)
 
-- **[Asteria](https://github.com/hmza-hb/Asteria)** (formerly Histeeria): Microservices, E2EE social graph,  built as a cross-platform mobile + web application. Deployed with hybrid RSA-AES client-side encryption and benchmarked at 25,000+ concurrent requests/sec.
+- **[Asteria](https://github.com/hmza-hb/Asteria)**: E2EE social graph on distributed microservices, cross-platform, hybrid RSA-AES, benchmarked for 25,000+ req/s on a single instance.
 
-- **[Anya](https://github.com/hmza-hb/Anya)**: Emotionally aware social robot companion utilizing NATS event-driven architecture, running on Raspberry Pi, 3-tier routing, hardware assembly, base car and pixi.js web app.
-- **[Project Cortex](https://github.com/hmza-hb/Project-Cortex)**: Prefrontal-cortex inspired AI architecture. Authored a 36-page research paper reviewed by 57 researchers.
+- **[Anya](https://github.com/hmza-hb/Anya)**: architecture for an autonomous companion robot. A NATS-based perception → cognition → expression loop that routes every moment through reflex, habitual, or LLM paths.
 
-### Open-Source footprint
-- **[Supabase PR #49181](https://github.com/supabase/supabase/pull/49181)**: fix(design-system): enable registry type-checking and add layout error boundary
+- **[Project Cortex](https://github.com/hmza-hb/Project-Cortex)**: 36-page research paper on prefrontal-cortex-inspired multi-agent AI architecture.
 
-- **[InsForge (YC P24) PR #1214](https://github.com/InsForge/InsForge/pull/1214)**: security(auth): harden auth posture (fix open-redirect & info-leak)
+### Open source
 
-- **[Apache Superset PR #4216](https://github.com/superset-sh/superset/pull/4216)**: feat(security): Implement AES-256-GCM Secret Encryption & Fix Chat IDOR
+- **Supabase** [#49181](https://github.com/supabase/supabase/pull/49181): enabled design-system registry type-checking, added a layout error boundary
+- **InsForge** (YC P24) [#1214](https://github.com/InsForge/InsForge/pull/1214): hardened auth, fixed an open redirect and an info leak
+- **Apache Superset** [#4216](https://github.com/superset-sh/superset/pull/4216): AES-256-GCM secret encryption, fixed a chat IDOR
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmza-hb&theme=dark&hide_border=true&background=0d1117&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="GitHub streak" height="140" />
