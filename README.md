@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/stars/hmza-hb?style=for-the-badge&logo=github&color=2563eb&logoColor=white&label=Stars" alt="Stars" />
 </a>
 
-**I design, secure, scale and maintain distributed backend systems.** Event-driven engines, real-time platforms, and the infrastructure that keeps them safe under load.
+**I design, secure, scale and maintain distributed backend systems.**
 
 ### Selected work
 
