@@ -15,7 +15,7 @@
   [platform](https://github.com/hmza-hb/histeeria-web) · [sdk](https://github.com/hmza-hb/histeeria-sdk) · [docs](https://github.com/hmza-hb/histeeria-docs)
 
 - **Web acquisition infrastructure**: a restart-safe, SSRF-hardened crawler leased through PostgreSQL, and a distributed layer for multimodal parsing and provenance-aware processing.
-  [Hermes Crawler](https://github.com/hmza-hb/crawler) · [Frontal](https://github.com/hmza-hb/frontal)
+  [Hermes Crawler](https://github.com/hmza-hb/crawler) · [Lead Intelligence](https://github.com/hmza-hb/lead-intelligence-platform)
 
 - **[Asteria](https://github.com/hmza-hb/Asteria)**: E2EE social graph on distributed microservices, cross-platform, hybrid RSA-AES, benchmarked for 25,000+ req/s on a single instance.
 
